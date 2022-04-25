@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="names">
+        <item>Dr. William A. Abdu</item>
+        <item>Dr. Myles. B. Abbott</item>
+        <item>Dr. Fouad. M. Abbas</item>
+        <item>Dr. Khalid Abbed</item>
+        <item>Dr. Naresh Trehan</item>
+        <item>Dr. Arthur Reese Abright</item>
+        <item>Dr. Corrie T.M Anderson</item>
+        <item>Dr. Mark. F. Aaron</item>
+        <item>Dr. Sudhansu Bhattacharyya</item>
+        <item>Dr. Mona.M.Abaza</item>
+        <item>Dr. JIbek.O.Orozbekova</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Dentist </item>
+        <item>Oncologist</item>
+        <item>Physician </item>
+        <item>Optometrist</item>
+        <item>Podiatrist </item>
+        <item>Chiropractor</item>
+        <item>Medic</item>
+        <item>Podiatrist</item>
+        <item>Pediatrician</item>
+        <item>Oncologist</item>
+        <item>Surgeon</item>
+    </string-array>
+</resources>
